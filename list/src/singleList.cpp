@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "singleList.h"
+#include "../include/singleList.h"
 
 struct Node * initList(int number)
 {
